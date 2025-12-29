@@ -3,7 +3,7 @@
 
 # ColorOS Porting Project
 
-[简体中文](/README.md)&nbsp;&nbsp;|&nbsp;&nbsp;English
+
 
 </div>
 
